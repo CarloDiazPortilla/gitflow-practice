@@ -1,3 +1,6 @@
 export const useRegister = () => {
-  return {};
+
+  return {
+    message: 'Some critical fix'
+  };
 };
